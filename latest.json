@@ -2,9 +2,9 @@
   "versionCode": 5,
   "versionName": "1.3.1",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "EC83938EEE5FFD648D3DCD649D2E010A2C64E7B2EF079EC6739BFF3C7D29FC79",
+  "sha256": "3D5168661E91443FFC36DCFA1371BD95F8782FCE8AA97B7B6637E912DA01A0BC",
   "size": 5482946,
   "minSdk": 24,
   "publishedAt": "2026-11-09T00:00:00Z",
-  "notes": "Bundled local app assets, auto-update, new launcher icon, host-shared theatre streams, mobile GPU optimizations, TFX Downloads, mini player, Reels fixes and full mobile scroll fix. Improves the update flow when Android install permission is not yet granted."
+  "notes": "Bundled local app assets, auto-update, new launcher icon, host-shared theatre streams, mobile GPU optimizations, TFX Downloads, mini player, Reels fixes and full mobile scroll fix. Includes the final cross-origin mini-player fix and update permission flow."
 }
