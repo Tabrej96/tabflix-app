@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.3.5",
+  "versionCode": 10,
+  "versionName": "1.3.6",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "0D107C6E5D3E25A4DEA9AEFDE23F3FEE0251537B8D091E6CA080EB7D49727110",
+  "sha256": "5F487A59C34393C1A8B9150FC27204393C0D33275B2D0F15A46CE6FF4C533C51",
   "size": 8208593,
   "minSdk": 24,
-  "publishedAt": "2026-11-09T23:40:00Z",
-  "notes": "Hindi-first playback with provider-wide resolution and cache-busted API requests; subtitle/audio-language discovery in downloads with split-audio companions; minimize/back download controls; TVMaze What to watch; live TV inside Reels; one-tap in-place updates that keep user data."
+  "publishedAt": "2026-11-09T23:50:00Z",
+  "notes": "Cache-safe update of the Hindi-first resolver, provider-wide audio selection, subtitle-aware downloads, download minimize/back, TVMaze What to watch, live TV in Reels, and in-place updates that preserve user data."
 }
