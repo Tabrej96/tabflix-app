@@ -1,0 +1,40 @@
+# TabFlix for Android
+
+Official public release channel for the TabFlix Android app.
+
+- **Download the latest APK:** [TabFlix.apk](https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk)
+- **All releases:** [GitHub Releases](https://github.com/Tabrej96/tabflix-app/releases)
+- **Website:** https://tabflix.online
+
+## Install
+
+1. Download `TabFlix.apk`.
+2. Allow installs from this source if Android asks.
+3. Open TabFlix.
+
+Requires Android 7.0 (API 24) or newer.
+
+## Features
+
+- Movies, TV series, anime, live TV, reels and TFX Theatre watch parties.
+- All UI assets are bundled in the APK, so navigation is instant; content and APIs load from TabFlix cloud services.
+- In-app TFX Downloads library and full-screen player.
+- YouTube-style floating mini player.
+- 3D TFX Theatre with host-shared stream playback, chat, reactions, host controls, room regeneration and guest moderation.
+- Automatic update check through `latest.json`; the app downloads and verifies the new APK and opens Android's installer.
+
+## Releases and updates
+
+`latest.json` is the update manifest consumed by the app. It contains the current `versionCode`, `versionName`, APK URL, SHA-256 and release notes.
+
+The release APK is signed with the TabFlix release certificate. Updating from a debug-signed build requires uninstalling the old build first. Official builds from this repository can update each other normally.
+
+## Verify a download
+
+Compare the SHA-256 in `latest.json` with the downloaded APK:
+
+```powershell
+Get-FileHash .\TabFlix.apk -Algorithm SHA256
+```
+
+The private application source is not published here; this repository contains only public release metadata and APK assets.
