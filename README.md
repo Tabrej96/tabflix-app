@@ -21,9 +21,10 @@ Requires Android 7.0 (API 24) or newer.
 - In-app TFX Downloads library with live progress, pause/resume/cancel/delete, audio and subtitle choices, and companion audio for split-audio HLS streams.
 - Track-aware offline player with audio/subtitle selection, volume and synced companion audio.
 - YouTube-style floating mini player and native Picture-in-Picture outside the app.
-- Live TV guide with category highlights, current/next programme banners, channel details and a minimizable player that keeps playing while you browse.
+- Live TV guide with TVMaze What to watch, current/next programme banners, channel details and a minimizable player that keeps playing while you browse.
+- Reels feed includes live TV channel slides with direct Live TV links.
 - 3D TFX Theatre with host-shared stream playback, chat, reactions, host controls, room regeneration and guest moderation.
-- Automatic update check through `latest.json`; the app downloads and verifies the new APK and opens Android's installer.
+- Automatic update checks every 15 minutes and on resume; the app downloads and verifies the signed APK and opens Android's installer. Updates install in place and keep app data.
 
 ## Releases and updates
 
