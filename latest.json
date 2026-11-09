@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.2",
+  "versionCode": 7,
+  "versionName": "1.3.3",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "EA7EC64F5BD5518A1CAC3F77191C69BCA87A8F3EF09A79FE873B21224F972490",
-  "size": 5491225,
+  "sha256": "3CF869E1CFB884DE503C5307D3E27E4E66806EBA8FA315A6982CD8EACD7D4AAD",
+  "size": 8204497,
   "minSdk": 24,
-  "publishedAt": "2026-11-09T00:00:00Z",
-  "notes": "Hindi/audio preference is applied to the initial player URL, bundled Reels opens correctly in the app, Live TV has prebuffer/loading states and a draggable mini player, downloads keep running while minimized via a foreground service, and movie playback can hand off to native Picture-in-Picture outside the app."
+  "publishedAt": "2026-11-09T19:19:19Z",
+  "notes": "Hindi audio now wins over stale preferences and falls back to a Hindi-capable provider. Reels opens on the first tap in the bundled app. TFX Downloads has live progress, pause/resume/delete, audio and subtitle choices, companion audio for split-audio streams and a track-aware offline player. Live TV adds current/next programme banners, categories, channel details and a mini player that survives navigation. Picture-in-Picture is more reliable."
 }
