@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.3.7",
+  "versionCode": 12,
+  "versionName": "1.3.8",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "DB70DF9CF862C44A26460AA0091DC579D29F124E8A1B9086A9E19B5F3D65CFE7",
-  "size": 8204412,
+  "sha256": "E871FD0FDA792ED6BC57E52165E7192BEA2F0FDF6683D4998FDF53B7200EC6A6",
+  "size": 8208508,
   "minSdk": 24,
-  "publishedAt": "2026-11-10T08:30:00Z",
-  "notes": "Anime and anime movies resolve through the dedicated anime catalogue first; Reels live channels play HLS video with loading states, proxy fallback and controls; mirror website removed so everything stays on tabflix.online."
+  "publishedAt": "2026-11-10T09:30:00Z",
+  "notes": "Reels now mixes randomized, verified live TV channels from reachable providers between movies, anime, web series and TV-show trailers. Offline streams are excluded and recently shown channels rotate out."
 }
