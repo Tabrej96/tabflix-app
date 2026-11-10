@@ -1,10 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.2",
+  "versionCode": 17,
+  "versionName": "1.4.3",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "3D0F36EDCDADE6174DB3DBE54740915A5964F734946510A4DD1305CDE9596A82",
+  "sha256": "33AED1D97C6E8BC410F20C19EAE27399B7C13675C69C17DCAE1B47335724C067",
   "size": 8238196,
   "minSdk": 24,
-  "publishedAt": "2026-11-10T16:45:00Z",
-  "notes": "TV/regional-dub results retained; true HLS audio track switching and preferred-language DUB; no extra Manga/Torrents dock; About & Support contacts; download assembly progress."
+  "publishedAt": "2026-11-10T17:30:00Z",
+  "notes": "Cloudflare-only production with native Worker API; TV/regional-dub and anime results retained; HLS audio switching; no extra Manga/Torrents dock; About & Support; download assembly progress."
 }
