@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.8",
+  "versionCode": 13,
+  "versionName": "1.3.9",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "E871FD0FDA792ED6BC57E52165E7192BEA2F0FDF6683D4998FDF53B7200EC6A6",
-  "size": 8208508,
+  "sha256": "B771D3B1C8A1AEA7D2DC958131B2817F29141F480777DC33C497E4C7AA199810",
+  "size": 8225347,
   "minSdk": 24,
-  "publishedAt": "2026-11-10T09:30:00Z",
-  "notes": "Reels now mixes randomized, verified live TV channels from reachable providers between movies, anime, web series and TV-show trailers. Offline streams are excluded and recently shown channels rotate out."
+  "publishedAt": "2026-11-10T11:50:00Z",
+  "notes": "Adds MangaDex manga catalogue/reader, torrent discovery, AniXTV/MegaPlay anime providers, language-aware live Reels, and the live-to-trailer blur fix."
 }
