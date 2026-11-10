@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.1",
+  "versionCode": 16,
+  "versionName": "1.4.2",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "F2106B0B9CF5443A7B445A42B19E9F5ABAEFDCD06AE37233FC2E27DB8FA72E7B",
-  "size": 8238126,
+  "sha256": "3D0F36EDCDADE6174DB3DBE54740915A5964F734946510A4DD1305CDE9596A82",
+  "size": 8238196,
   "minSdk": 24,
-  "publishedAt": "2026-11-10T14:50:00Z",
-  "notes": "Restored the home layout; unified Manga/Torrents shell and headers; readable Weebcentral manga including Solo Leveling; deduplicated TV/anime search; stable HLS anime playback with working audio/subtitles; book/download nav icons."
+  "publishedAt": "2026-11-10T16:45:00Z",
+  "notes": "TV/regional-dub results retained; true HLS audio track switching and preferred-language DUB; no extra Manga/Torrents dock; About & Support contacts; download assembly progress."
 }
