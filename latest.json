@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.0",
+  "versionCode": 15,
+  "versionName": "1.4.1",
   "apkUrl": "https://github.com/Tabrej96/tabflix-app/releases/latest/download/TabFlix.apk",
-  "sha256": "0FF2B003A64CE0E2CF3F9BB7DFB5CC4178AF5242A2816CA3CB81DC996BA55C77",
-  "size": 8229687,
+  "sha256": "F2106B0B9CF5443A7B445A42B19E9F5ABAEFDCD06AE37233FC2E27DB8FA72E7B",
+  "size": 8238126,
   "minSdk": 24,
-  "publishedAt": "2026-11-10T13:30:00Z",
-  "notes": "YumeZone provider parity with AllAnime/Zenith and AnimeX anime servers, readable Weebcentral manga including Solo Leveling, persisted subtitle language preference, shared player across content, and a unified Manga/Torrents shell with a new Home discovery bar."
+  "publishedAt": "2026-11-10T14:50:00Z",
+  "notes": "Restored the home layout; unified Manga/Torrents shell and headers; readable Weebcentral manga including Solo Leveling; deduplicated TV/anime search; stable HLS anime playback with working audio/subtitles; book/download nav icons."
 }
